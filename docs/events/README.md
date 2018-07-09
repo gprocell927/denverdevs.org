@@ -17,17 +17,17 @@ Join us for a day of gaming and fun!
 Questions? Reach out to Gabi Cepeda-Procell on Slack!
 
 
-## Denver Devs Book Club
+## Denver Devs Sci-Fi Book Club
 
 ##### Next Meetup: 
 
-:date: 
+:date: Wed, July 25, 2018 
 
-:clock1: 
+:clock1: 6:30pm - 8:30pm
 
-:round_pushpin: 
+:round_pushpin: [Carbon Cafe & Bar](https://goo.gl/maps/UmwV5kMBRaq)
 
-[desc]
+We're reading Neal Stephenson's _Snow Crash_ for this month! We'll be in the back room of Carbon Cafe. Come eat, drink, and discuss this awesome book with us!
 
 Questions? Reach out to Gabi Cepeda-Procell on Slack!
 
@@ -36,7 +36,7 @@ Questions? Reach out to Gabi Cepeda-Procell on Slack!
 
 ##### Next Meetup: 
 
-:date: 
+:date: TBD
 
 :clock1: 
 
